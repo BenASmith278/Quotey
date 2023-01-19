@@ -1,2 +1,5 @@
 # Quotey
- A Quotes web app for CWRU XC
+
+A Quotes web app for CWRU XC
+
+## WIP
